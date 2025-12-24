@@ -1,3 +1,5 @@
+# tuple is an immutable sequence type in Python, meaning its elements cannot be changed after creation.
+
 tuple =(1,2,3,4,5)
 print("Original tuple:", tuple)
   # Output: Original tuple: (1, 2, 3, 4, 5)
